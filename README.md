@@ -2,6 +2,8 @@
 
 An AI-powered system for analyzing large-scale system logs using Natural Language Processing (NLP) and transformer-based language models.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ManMohiniSharma/AI-Powered-Log-Analysis/blob/main/AI-Powered-Log-Analysis.ipynb)
+
 ## Project Overview
 
 This project focuses on preprocessing and analyzing system log data to extract meaningful security-related information. It uses NLP techniques and CyberBERT/SecBERT embeddings to represent log messages in a form suitable for intelligent log analysis and downstream security applications.
